@@ -56,7 +56,7 @@ This AI-powered travel agent uses **Google Gemini API** to tailor multi-variable
 ## 🚀 Installation
 
 ### Requirements
-* Python 3.8 or higher
+* Python 3.12
 * pip package manager
 
 ### Setup
