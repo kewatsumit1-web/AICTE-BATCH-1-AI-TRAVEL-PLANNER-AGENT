@@ -108,7 +108,4 @@ The web portal will automatically initialize inside your default browser window 
 ---
 
 ## 🧑‍💻 Author
-
-**Your Name** — Student Developer / Software Engineering Intern
-* LinkedIn: [Your Profile Link Here](#)
-* GitHub: [@yourusername](#)
+SUMIT KUMAR KEWAT
