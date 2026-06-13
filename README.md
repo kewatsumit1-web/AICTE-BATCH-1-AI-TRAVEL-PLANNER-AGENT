@@ -2,7 +2,6 @@
 
 **Personalized AI-powered travel and itinerary planning — Generate seamless itineraries, transit logs, safety advisory briefs, and track budgets all in one place.**
 
-[![Live Demo](https://shields.io)](#) [![Report Issue](https://shields.io)](#)
 
 ---
 
